@@ -1,0 +1,50 @@
+Gold Room has been removed(@gold will replace our gold farming system)
+   - Map
+    * force_3-1
+
+   - Monsters that will drop Gold/Berry
+    * Dokebi
+    * Baphomet Jr.
+
+   - NPC Location
+    * prontera 168 162
+
+
+
+Custom Commands now disabled when the user is in PvP/GvG maps.
+    * @mall
+    * @quest
+    * @gold
+
+
+
+Added Commands
+    * @hatereset
+
+
+
+Added King of Emperium Hill
+    * prontera 155 176
+    * Automated Reward for active and non-afk/vending/idle characters during and when koe ends
+
+
+
+Added Lotti Girl NPC
+    * Rewards 
+
+
+
+Added @pk instantly enable/disabled PK Status
+    * @pk
+    * All Maps(Except Towns) are PK Enabled.
+    * By default on first login/relog @pk mode is Disabled.
+      (If you want to enable pk mode just type @pk and execute the command.)
+
+
+Added Questboard(Monster Hunting Quest)
+    * Example
+    (Poring Terminator - Kill 100 Porings and get reward.)
+
+    * Quest Resets every 3hrs(Repeatable)
+    * Rewards(Depending on complexity of the Quest.)
+    * Announcer when someone has completed the Quest.
